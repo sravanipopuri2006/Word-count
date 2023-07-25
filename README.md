@@ -40,7 +40,9 @@ print("no of words:",len(s))
 
 
 ### OUTPUT:
-![Alt text](<Screenshot (3).png>)
+
+![Alt text](<Screenshot (3)-1.png>)
+
 
 
 
