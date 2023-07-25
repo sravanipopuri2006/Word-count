@@ -19,7 +19,20 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 
+
 ### OUTPUT:
+#program to count the no.of words in the text file
+#Developed by:Popuri Sravani
+#Register number:23006561
+
+
+
+f=open("sahi.txt","r")
+a=f.read()
+print(a)
+a.split()
+print('No of words:',len(a))
+
 
 
 
